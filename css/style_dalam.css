@@ -1,0 +1,221 @@
+textarea
+{
+	resize:none;
+}
+
+a:visited
+{
+	color:blue;
+}
+
+a:hover
+{
+	color:red;
+}
+
+.tambah-agenda, .tambah-pengurus, .tambah-user
+{
+	width:500px;
+	background-color:white;
+	margin: 70px auto;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+
+body{
+background-color:#f8fbf4;
+background-image: url("gambar/bg.jpg");
+}
+
+#wrapper
+{
+	font-family: calibri, arial, tahoma, verdana, sans-serif;
+	width : 1000px;
+	height : 300px;
+	margin: 0px auto;
+}
+
+#menu-utama
+{
+	list-style:none;
+}
+
+#header
+{
+	width : 100%;
+	overflow : hidden;
+}
+
+#header img
+{ 
+	width:130px;
+	height:35px; 
+}
+
+#menu-utama li a
+{
+	float:right;
+	padding:8px 10px;
+	background-color:#f8fbf4;
+	font-size:18px;
+	text-decoration:none;
+}
+
+#konten
+{
+	width:100%;
+	height:auto;
+}
+
+#kontendaftar
+{
+	width:100%;
+	float:left;
+	height:auto;
+	background-color:white;
+}
+
+
+#kontenpengurus
+{
+	width:100%;
+	float:left;
+	background-color:white;
+}
+
+
+#kontenagenda
+{
+	width:100%;
+	float:left;
+	height:auto;
+}
+
+.menu-admin-login
+{
+	width:280px;
+	height:auto;
+	margin:50px auto;
+	padding:20px 0 20px 50px;
+	background-color:white;
+	border-radius: 10px;
+}
+
+
+.gambar-konten img
+{
+	width:1000px;
+	height:350px;
+}
+
+.permata
+{
+	color:red;
+	width:70%;
+	height:auto;
+	margin:10px 5px;
+	background-color:white;
+	border-radius: 10px;
+	float:left;
+	padding:20px;
+}
+
+.agenda
+{
+	color:red;
+	width:70%;
+	height:auto;
+	margin:10px 5px;
+	background-color:white;
+	border-radius: 10px;
+	float:left;
+	padding:20px;
+	
+}
+
+.pengurus
+{
+	color:red;
+	width:70%;
+	height:auto;
+	margin:10px 5px;
+	background-color:white;
+	border-radius: 10px;
+	float:left;
+	padding:20px;
+}
+
+.daftar-anggota
+{
+	color:red;
+	width:50%;
+	height:auto;
+	margin:10px 5px;
+	background-color:white;
+	border-radius: 10px;
+	float:left;
+	padding:20px 0 20px 240px;
+}
+
+.login
+{
+	color:blue;
+	width:220px;
+	height:100%;
+	margin:10px 5px;
+	padding:10px;
+	background-color:white;
+	border-radius: 10px;
+	float:left;
+}
+
+.jaja, .yoyo
+{
+	color:blue;
+	width:220px;
+	height:100%;
+	margin:10px 5px;
+	padding:10px;
+	background-color:white;
+	float:left;
+	overflow:auto;
+	border-radius: 10px;
+}
+
+.contoh-dulu
+{
+	color:blue;
+	width:220px;
+	height:100%;
+	margin:10px 5px;
+	padding:10px 15px 10px 5px;
+	background-color:white;
+	float:left;
+	overflow:auto;
+	border-radius: 10px;
+}
+
+
+
+#footer
+{
+	clear:both;
+	margin:20px 0;
+	text-align:center;
+	background-color: #f0f0f0;
+	padding:5px;
+	color:white;
+	background-image: url("gbr/bg_konten.jpg");
+}
+
+.manajemen-admin
+{
+	background-image: url("gambar/bg.jpg");
+}
+
+.daftar_anggota_ukm
+{
+	background-image: url("gambar/bg.jpg");
+}
+
